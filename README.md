@@ -1,5 +1,5 @@
 # Blog-app
-This is a comprehensive projrct for creating a full-stack blog website application using React, Node.js, and MySQL. 
+This is a comprehensive project for creating a full-stack blog website application using React, Node.js, and MySQL. 
 ## Installation
 
 Follow these steps to set up the project:
